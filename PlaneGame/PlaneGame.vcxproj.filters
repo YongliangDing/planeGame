@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Ball.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomb.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Explosion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyPlane.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaneGame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaneGameDoc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaneGameView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BG.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BOSS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BOSSball.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomb1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Lbomb.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ball1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LBoss.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="WzdSplash.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Phea.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lbomb2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ball.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Explosion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyPlane.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PlaneGame.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PlaneGameDoc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PlaneGameView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BG.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BOSS.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BOSSball.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomb1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Lbomb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Ball1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LBoss.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="WzdSplash.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Phea.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lbomb2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="plane\ball.BMP">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="plane\ball2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="plane\ball3.BMP">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="plane\bitmap1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="plane\explosion.BMP">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="plane\me.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="plane\plane1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="plane\plane2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="plane\plane3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\PlaneGame.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\PlaneGameDoc.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="plane\thunder.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="plane\bitmap4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\nature_nasa_jpl_stars_and_galaxies_40482_9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\tk.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\1500371dadrjjoqjqws311.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\desert.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\img_bg_level_1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\img_bg_level_4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\img_bg_level_5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\未标题-1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\img_bg_level_1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\img_bg_level_4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\img_bg_level_5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\56.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\bomb2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\ball.BMP">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\BOSS.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\BOSSball.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\life.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\hea.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\bomb1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\Lbomb.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\ball1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\LBoss.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\img_bg_logo.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\jiaxie.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\XL.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\plane\qingping.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="PlaneGame.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\PlaneGame.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>
